@@ -1,0 +1,29 @@
+body {
+  max-width: 800px;
+  text-align: center;
+  background: radial-gradient(73% 147%, #eadfdf 59%, #ece2df 100%),
+    radial-gradient(
+      91% 146%,
+      rgba(255, 255, 255, 0.5) 47%,
+      rgba(0, 0, 0, 0.5) 100%
+    );
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  padding: 10px;
+  color: peru;
+  text-decoration: none;
+  justify-content: center;
+}
+
+img {
+    justify-content: center ;
+    max-width: 100px;
+    box-shadow: 2px 2px 2px 2px lightgrey;
+
+}
